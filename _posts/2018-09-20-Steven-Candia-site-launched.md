@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Week 
-date: 2014-04-30
+date: 2018-09-20
 ---
 
 Well. Finally got around to putting this website together. 
