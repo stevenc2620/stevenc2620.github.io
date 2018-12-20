@@ -4,7 +4,7 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of _Sweeden_ by _Steven C._
 
 ## Describe your program
 
