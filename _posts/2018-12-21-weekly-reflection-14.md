@@ -20,29 +20,32 @@ I probably would expect a 3 as a grade because I showed effort in writing a func
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
-
+Something that helped me was when Mr. Allata showed what we could do to create a function that would chnage if we chnage just one number. For example, instead of changing a bunch of things, we could connect all the ducntions to one function definiton so that function will chnage everything for us. 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+***
+
+```
+(define size 20)
+(define width (* 16 size))
+(define heigth (* 10 size))
+(define stripe-width (* 1/8 width))
+(define stripe-heigth (* 1/5 heigth))
+```
+The first function defines the size in general. The second and third both define the height and the width of the flag's base. What it would do is that it takes in the size and muliplies it by 16 for width and 10 for the heigth. If we change the size then the heihth and the width will also chnage based on the number defined by size. The last two functions define the size for the height and the width. The width multiplies 1/8 by the original width while the heigth multiplies 1/5 and the original heigth. This works for me since it'll be easier to scale because if I chnage size to a different number the heigth and the width will also change. The width and the heigth chnaging will also make the stripe-width and the stripe-heigth chnage as well. 
+
+***
 
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+(define gold (make-color 254 204 0))
+(define blue (make-color 0 106 167 ))
 ```
 
 * * *
 
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
 
 
 ## Program code
