@@ -15,7 +15,7 @@ I probably would expect a 3 as a grade because I showed effort in writing a func
 ## Current output
 
 * * *
-![FlagV2](Images/FlagV2.png)
+![FlagV2](/Images/FlagV2.png)
 * * *
 
 ## Describe your process.
