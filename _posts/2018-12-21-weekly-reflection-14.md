@@ -9,8 +9,10 @@ date: 2018-12-21
 ## Describe your program
 
 -   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+The country's flag I worked on was the flag of Sweeden. 
 
+-   What grade do you expect? _then delete this instruction_
+I probably would expect a 3 as a grade because I showed effort in writing a funciton that would change because of one thing. Also, because my flag is scaleable where the ratio of the stripes and the rest of my flag is placed accurately.  
 <!--- Delete this comment and add your writing -->
 
 ## Current output
