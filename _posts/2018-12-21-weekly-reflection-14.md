@@ -14,10 +14,8 @@ I probably would expect a 3 as a grade because I showed effort in writing a func
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
-
 * * *
-![Flag](Images/final-flag.png)
+![final-flag](Images/final-flag.png)
 * * *
 
 ## Describe your process.
